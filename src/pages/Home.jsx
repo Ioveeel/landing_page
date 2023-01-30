@@ -105,7 +105,7 @@ const Home = () => {
       <Container>
         <Row>
           <Col lg='12' className='text-center'>
-            <h2 className="setcion__title">New Arrivals</h2>
+            <h2 className="section__title">New Arrivals</h2>
           </Col>
           <ProductsList data={mobileProducts} /> 
           <ProductsList data={wirelessProducts} /> 

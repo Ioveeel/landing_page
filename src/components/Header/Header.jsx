@@ -53,7 +53,7 @@ const Header = () => {
           <div className="logo">
             <img src={logo} alt="logo" />
             <div>
-              <h1>E-Coomerce</h1>
+              <h1>E-Commerce</h1>
               </div>
           </div>
 
